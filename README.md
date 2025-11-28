@@ -12,7 +12,7 @@ Due to privacy and ethical considerations, the full dataset of images used in th
 LITTER-DETECTION/
 ├── data/
 │   └── images/
-│       ├── IMG_1jpg.jpg
+│       ├── IMG_1.jpg
 │       ├── IMG_2.jpg
 │       ├── IMG_3.jpg
 │       ├── IMG_4.jpg
