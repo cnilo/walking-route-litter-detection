@@ -152,7 +152,7 @@ This includes:
 
 ---
 
-## 🔗 Model weights
+## Model weights
 
 This project uses YOLOv8 weights trained on the **TACO dataset**.
 
@@ -163,7 +163,7 @@ Please cite the TACO dataset if reusing the weights.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - TACO dataset authors  
 - Volunteers who collected POV imagery  
