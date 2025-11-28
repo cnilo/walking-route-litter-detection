@@ -1,0 +1,9 @@
+image_path,image_name,has_litter_pred,lat,lon
+data\images\IMG_1jpg.jpg,IMG_1jpg.jpg,1,17.723999999999997,28.619972222222223
+data\images\IMG_2.jpg,IMG_2.jpg,0,-33.45469444444445,-70.65580555555556
+data\images\IMG_3.jpg,IMG_3.jpg,1,-33.4575,-70.65561111111111
+data\images\IMG_4.jpg,IMG_4.jpg,1,-33.457750000000004,-70.65475
+data\images\IMG_5.jpg,IMG_5.jpg,0,-33.45788888888889,-70.65455555555556
+data\images\IMG_6.jpg,IMG_6.jpg,0,-33.45761111111111,-70.65425
+data\images\IMG_7.jpg,IMG_7.jpg,0,,
+data\images\IMG_8.jpg,IMG_8.jpg,0,,
